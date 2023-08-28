@@ -1,7 +1,7 @@
-Hi 👋 My name is Mohamed Ait Koliche
+Hi 👋 
 ====================================
 
-I am a recent graduate with a Master's degree in Software Engineering and I am very passionate about full-stack development and data science. I am currently seeking opportunities to further enhance my skills and knowledge through internships or job opportunities within a company.
+My name is Mohamed Ait Koliche, I am a recent graduate with a Master's degree in Software Engineering and I am very passionate about full-stack development and data science. I am currently seeking opportunities to further enhance my skills and knowledge through internships or job opportunities within a company.
 
 * 🌍  I'm based in Morocco
 * 🖥️  You can see my portfolio at [https://koliche.github.io/](http://koliche.github.io/)
