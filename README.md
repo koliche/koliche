@@ -13,9 +13,9 @@ My name is Mohamed Ait Koliche, I am a recent graduate with a Master's degree in
 <!--   <a href="https://www.dribbble.com/Mkoliche" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" />
   </a>  -->
-  <a href="https://www.github.com/koliche" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.github.com/koliche" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
+  </a>  -->
   <a href="https://www.linkedin.com/in/mohamed-ait-koliche" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
