@@ -1,7 +1,7 @@
 Hi 👋 
 ====================================
 
-My name is Mohamed Ait Koliche, I am a recent graduate with a Master's degree in Software Engineering and I am very passionate about full-stack development. 
+My name is Mohamed Ait Koliche, I am a recent graduate with a Master's degree in Software Engineering and I am very passionate about full-stack java. 
 
 * 🌍  I'm based in Morocco
 * 🖥️  You can see my portfolio at [https://koliche.github.io/](http://koliche.github.io/)
